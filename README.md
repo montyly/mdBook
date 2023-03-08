@@ -1,3 +1,9 @@
+
+* [mdBook](https://github.com/rust-lang/mdBook) fork from commit [1668ab7](https://github.com/montyly/mdBook/commit/1668ab78776ea966fa8ea4b335dd1394103d1cad)
+* Includes additional PRs: 
+    - [Add a logo to the navigation bar of the HTML rendered book](https://github.com/rust-lang/mdBook/pull/1584)
+    - [feat: Include Solidity and Yul highlighting ](https://github.com/montyly/mdBook/pull/1)
+
 # mdBook
 
 [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?event=push)](https://github.com/rust-lang/mdBook/actions?workflow=CI)
