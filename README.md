@@ -1,8 +1,8 @@
-
-* [mdBook](https://github.com/rust-lang/mdBook) fork from commit [1668ab7](https://github.com/montyly/mdBook/commit/1668ab78776ea966fa8ea4b335dd1394103d1cad)
-* Includes additional PRs: 
-    - [Add a logo to the navigation bar of the HTML rendered book](https://github.com/rust-lang/mdBook/pull/1584)
-    - [feat: Include Solidity and Yul highlighting ](https://github.com/montyly/mdBook/pull/1)
+- [mdBook](https://github.com/rust-lang/mdBook) fork from commit [1668ab7](https://github.com/montyly/mdBook/commit/1668ab78776ea966fa8ea4b335dd1394103d1cad)
+- Includes additional PRs:
+  - [Add a logo to the navigation bar of the HTML rendered book](https://github.com/rust-lang/mdBook/pull/1584)
+  - [feat: Include Solidity and Yul highlighting ](https://github.com/montyly/mdBook/pull/1)
+  - [feat: Change Mathjax parameters to render as HTML ](https://github.com/montyly/mdBook/pull/2)
 
 # mdBook
 
@@ -19,7 +19,7 @@ If you are interested in contributing to the development of mdBook, check out th
 
 ## License
 
-All the code in this repository is released under the ***Mozilla Public License v2.0***, for more information take a look at the [LICENSE] file.
+All the code in this repository is released under the **_Mozilla Public License v2.0_**, for more information take a look at the [LICENSE] file.
 
 [User Guide]: https://rust-lang.github.io/mdBook/
 [contribution guide]: https://github.com/rust-lang/mdBook/blob/master/CONTRIBUTING.md
