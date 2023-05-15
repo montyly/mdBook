@@ -2,7 +2,7 @@
 - Includes additional PRs:
   - [Add a logo to the navigation bar of the HTML rendered book](https://github.com/rust-lang/mdBook/pull/1584)
   - [feat: Include Solidity and Yul highlighting ](https://github.com/montyly/mdBook/pull/1)
-  - [feat: Change Mathjax parameters to render as HTML ](https://github.com/montyly/mdBook/pull/2)
+  - [feat: Change Mathjax parameters to render as SVG ](https://github.com/montyly/mdBook/pull/2)
 
 # mdBook
 
